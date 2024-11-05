@@ -7,7 +7,7 @@
 
 <body>
     <div style="margin-left: 50px;">
-        <h1>Hello world จ้าาาาาาา </h1>
+        <h1>Hello world </h1>
     </div>
 
     <?php
