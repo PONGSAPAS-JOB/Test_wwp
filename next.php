@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 
-<langhead>
-
-</langhead>
-<title>Test</title>
+<head>
+    <title>Test</title>
+    <meta content="text/html; charset=utf-8" />
+</head>
 
 <body>
 
