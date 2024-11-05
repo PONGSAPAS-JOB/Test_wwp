@@ -3,6 +3,7 @@
 
 <head>
     <title>Test</title>
+    <meta content="text/html; charset=utf-8" />
 </head>
 
 <body>
