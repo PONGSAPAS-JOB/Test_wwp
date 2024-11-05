@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<langhead>
 
-</head>
+</langhead>
 <title>Test</title>
 
 <body>
