@@ -12,7 +12,7 @@ class DB_con
 
     public function showlist()
     {
-        $result = mysqli_query($this->conn, "SELECT * FROM list_namewwp");
+        $result = mysqli_query($this->conn, "SELECT * FROM sql_db");
         return $result;
     }
 }
